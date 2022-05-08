@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033e2b8f-9c8a-4cea-965c-1f5be08353d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animals_Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animals_Inheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/BlowFish.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/BlowFish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Fish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Mammal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Pigeon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Pigeon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/com/company/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/com/company/Staff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Animals_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Animals_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/BlowFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/BlowFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Pigeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EX7/src/com/company/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/com/company/Staff.java" afterDir="false" />
+    <list default="true" id="b6109509-0f53-401e-8e2a-4ce7d6f6b2cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Animals_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Animals_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/BlowFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/BlowFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Pigeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Staff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +30,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27zPOydNA20dlE3AsQNtsnzcjuv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="27cvv2NpamaOxQDMPXirVCnj121" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -104,17 +100,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EX7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Animals_Inheritance">
+    <configuration name="Animals_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal.Animals_Inheritance" />
+      <module name="EX7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="EX8" />
+      <module name="EX7" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -122,21 +134,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Animals_Inheritance" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="033e2b8f-9c8a-4cea-965c-1f5be08353d0" name="Changes" comment="" />
-      <created>1650319914999</created>
+      <changelist id="b6109509-0f53-401e-8e2a-4ce7d6f6b2cc" name="Changes" comment="" />
+      <created>1649632418801</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650319914999</updated>
-      <workItem from="1650319917159" duration="20000" />
-      <workItem from="1652037319744" duration="1292000" />
+      <updated>1649632418801</updated>
+      <workItem from="1649632420882" duration="3950000" />
+      <workItem from="1649716265984" duration="183000" />
+      <workItem from="1649716519473" duration="5000" />
+      <workItem from="1650319894439" duration="664000" />
+      <workItem from="1652037535068" duration="1094000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
