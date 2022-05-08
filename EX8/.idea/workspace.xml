@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="033e2b8f-9c8a-4cea-965c-1f5be08353d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animals_Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Animals_Inheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/BlowFish.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/BlowFish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Pigeon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/Animal/Pigeon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/out/production/EX7/com/company/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/out/production/EX7/com/company/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Animals_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Animals_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/BlowFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/BlowFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/Animal/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/Animal/Pigeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EX7/src/com/company/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EX7/src/com/company/Staff.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27zPOydNA20dlE3AsQNtsnzcjuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EX7" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="EX8" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="033e2b8f-9c8a-4cea-965c-1f5be08353d0" name="Changes" comment="" />
+      <created>1650319914999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650319914999</updated>
+      <workItem from="1650319917159" duration="20000" />
+      <workItem from="1652037319744" duration="1292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
